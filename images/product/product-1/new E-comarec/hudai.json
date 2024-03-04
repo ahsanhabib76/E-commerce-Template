@@ -1,0 +1,64 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.proseWrap": "always",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.fontWeight": null,
+  "workbench.sideBar.location": "right",
+  "explorer.confirmDelete": false
+}
+
+{
+  "editor.fontFamily": "Operator Mono, Fira Code",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  // "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "prettier.proseWrap": "always",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.hover.enabled": false,
+
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "workbench.editor.enablePreview": false,
+  "diffEditor.wordWrap": "on",
+  "bracketPairColorizer.depreciation-notice": false,
+  "security.workspace.trust.untrustedFiles": "open"
+}
